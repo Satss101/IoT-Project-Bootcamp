@@ -13,7 +13,7 @@ pet plant adalah sebuah robot monitoring tanaman yang bisa berinteraksi dengan k
 
 ## Images
 
-!(/image/sample.png "This is a sample image.")
+!(Project Submission/Bagus Satrio WIcaksono/skematik rangkaian.jpg)
 
 ## 3D desain
 
@@ -21,4 +21,4 @@ pet plant adalah sebuah robot monitoring tanaman yang bisa berinteraksi dengan k
 
 ## Links
 
-video petplant (https://drive.google.com/file/d/1Lgzc3AYe5yGuaZBR9jWfIE-GbZUXIeR8/view?usp=sharing)
+video petplant https://drive.google.com/file/d/1Lgzc3AYe5yGuaZBR9jWfIE-GbZUXIeR8/view?usp=sharing
